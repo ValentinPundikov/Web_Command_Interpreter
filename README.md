@@ -8,7 +8,7 @@ Web Command Interpreter - это веб-приложение, написанно
 2. Клонируйте репозиторий с помощью команды:
 
    ```bash
-   git clone https://github.com/your-username/web-command-interpreter.git
+   git clone https://github.com/your-username/Web_Command_Interpreter.git
    ```
 
 3. Перейдите в каталог `web-command-interpreter`:
